@@ -1,0 +1,61 @@
+ body{
+    font-family: 'Labrada', serif;
+    background-color: #b7b7bd;
+ }
+
+
+.navbar-brand
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.frm
+{
+    border: 1px solid white;
+    border-radius: 10px;
+}
+/* .img1:hover
+{
+    transform: translate(150px , 180px);
+    transition: 3s ease-out;
+} */
+label
+{
+    color: white;
+    font-size: 25px;
+}
+.form-control
+{
+    background-color: transparent;
+    border: 1px solid white;
+    
+}
+.navbar , li
+{
+    padding: 0px;
+}
+/* .box:hover{
+    background-color: rgb(241, 204, 204);
+    transition: 1s ease;
+    transform: translate(-7px , -5px);
+    color: white;
+} */
+.card-img-top
+{
+    border: 1px solid red;
+}
+/* .box1:hover
+{
+    transform: translate(-15px , 15px);
+    transition: 1s;
+    
+} */
+.anchor
+{
+    text-decoration: none;
+    color: black;
+}
+
+
+
